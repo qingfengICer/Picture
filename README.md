@@ -1,1 +1,1 @@
-# Picture
+# Picture for Typora
